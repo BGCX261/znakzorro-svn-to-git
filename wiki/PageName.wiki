@@ -1,0 +1,8 @@
+#summary One-sentence summary of this page.
+#labels Phase-QA
+
+= Introduction =
+myProjekt
+= Details =
+*To jest projekt którym rozpoczynam nową erę w programowaniu.*
+_Nic nie wiem jak to sie skończy._
